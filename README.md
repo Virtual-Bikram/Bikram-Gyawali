@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Bikram Gyawali.</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working on **myportfolio**
 
