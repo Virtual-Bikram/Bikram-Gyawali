@@ -1,13 +1,15 @@
 <h1 align="center">Hi there 👋, I am Bikram Gyawali.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **myportfolio**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **React Native , Design Patterns.**
+- 🌱 I’m currently learning **NestJS, Design Patterns.**
+- - �🔭 I’m planning to learn **NextJS,React Native,DevOps** coming days .
+
 
 - 👯 I’m looking to collaborate on **any fullstack projects available anytime**
 
-- 👨‍💻 All of my projects are available at [portfolio under developmennt](portfolio under developmennt)
+- 👨‍💻 All of my projects are available at [https://bikramgyawali.netlify.app/](https://bikramgyawali.netlify.app/)
 
 - 📫 How to reach me **bikramgyawali57@gmail.com**
 
