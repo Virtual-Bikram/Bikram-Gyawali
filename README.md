@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **NestJS **
-- - �🔭 I’m planning to learn **Spring Boot ** coming days .
+- 🌱 I’m currently learning **NestJS**
+- - �🔭 I’m planning to learn **Spring Boot** coming days .
 
 
 - 👯 I’m looking to collaborate on **any fullstack projects available anytime**
