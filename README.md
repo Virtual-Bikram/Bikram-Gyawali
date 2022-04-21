@@ -14,6 +14,7 @@
 - 📫 How to reach me **bikramgyawali57@gmail.com**
 
 - ⚡ Fun fact **I do funny things alone and laugh at myself hahahaha**
+- ![](https://komarev.com/ghpvc/?username=Bikram-Gyawali&color=f95378)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
