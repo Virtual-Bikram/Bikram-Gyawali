@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Bikram Gyawali.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **personal nodejs projects**
 
 - 🌱 I’m currently learning **Spring Boot**
 - - �🔭 I’m planning to learn **system design** coming days .
