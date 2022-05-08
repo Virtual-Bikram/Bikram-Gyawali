@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **personal nodejs projects**
 
 - 🌱 I’m currently learning **Spring Boot**
-- - �🔭 I’m planning to learn **system design** coming days .
+- - �🔭 I’m planning to learn **system design and aws** coming days .
 
 
 - 👯 I’m looking to collaborate on **fullstack projects available anytime**
