@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bikramgyawali57@gmail.com**
 
-- ⚡ Fun fact **I have tips to copy paste codes**
+- ⚡ Fun fact **My dog stepped on an error...**
 - ![](https://komarev.com/ghpvc/?username=Bikram-Gyawali&color=f95378)
 
 <h3 align="left">Connect with me:</h3>
