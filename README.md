@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal nodejs projects**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Java | Spring Boot .**
 - - �🔭 I’m planning to learn **system design ** coming days .
 
 
