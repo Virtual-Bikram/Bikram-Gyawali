@@ -7,7 +7,7 @@
 - - �🔭 I’m planning to learn **system design** coming days .
 
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+- 👯 I’m looking to collaborate on **backend projects**
 
 - 👨‍💻 All of my projects are available at [https://bikramgyawali.netlify.app/](https://bikramgyawali.netlify.app/)
 
