@@ -1,10 +1,10 @@
 <h1 align="center">Hello there 👋, I am Bikram Gyawali.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **personal nodejs projects**
+- 🔭 I’m currently working on **VIRTUAL GRAVITY**
 
-- 🌱 I’m currently learning **Java | Spring Boot .**
-- - �🔭 I’m planning to learn **blockchain,cyber security,devops** coming days .
+- 🌱 I’m currently learning **Docker and AWS**
+- - �🔭 I’m planning to learn **blockchain** coming days .
 
 
 - 👯 I’m looking to collaborate on **backend projects**
